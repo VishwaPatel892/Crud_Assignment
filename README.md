@@ -6,7 +6,7 @@
 
 ## 🌍 Live API (Render)
 
-👉 https://node-js-assignment-1-ojkr.onrender.com/students
+👉 https://crud-assignment-1-zb7h.onrender.com
 
 ---
 
