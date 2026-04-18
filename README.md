@@ -6,7 +6,8 @@
 
 ## 🌍 Live API (Render)
 
-👉 https://crud-assignment-1-zb7h.onrender.com
+👉 https://backend-assignment-1-1.onrender.com/
+
 
 ---
 
